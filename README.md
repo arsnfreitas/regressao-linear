@@ -6,3 +6,6 @@ Parte I:
 
 Parte II:
 - Linearização das variáveis explicativas e da resposta
+
+Parte III:
+- Regressão linear múltipla
