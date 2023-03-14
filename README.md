@@ -1,4 +1,4 @@
-# regressao-linear
+# regressao-linear com statsmodel
 
 Parte I:
 - regressão linear com statsmodel
@@ -9,3 +9,6 @@ Parte II:
 
 Parte III:
 - Regressão linear múltipla
+
+Parte IV:
+- Considerando variáveis qualitativas
