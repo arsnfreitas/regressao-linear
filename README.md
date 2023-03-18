@@ -12,3 +12,6 @@ Parte III:
 
 Parte IV:
 - Considerando variáveis qualitativas
+
+Parte V:
+- Regularização
