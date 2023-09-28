@@ -15,3 +15,9 @@ Parte IV:
 
 Parte V:
 - Regularização
+
+Parte VI:
+- Categorização
+- Transformação
+- Segmentação
+- Lowess
